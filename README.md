@@ -1,3 +1,3 @@
-# scrollproject
+# KefGen Tours
 
-A landing page that  implements javascript to enable the responsiveness and each link to navigate to the specific section of the same page
+A  company landing page that  implements javascript,HTML and CSS together providing an output that gives further information on  services offered by an organisation
